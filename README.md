@@ -6,10 +6,10 @@ Hello! I'm Meriel Ady Talub, an Information Systems student passionate about bui
 
 
 #### 🚀 Current Focus
-- 🌱 Learning: Full-Stack Development, RAG, and Cloud Technologies
-- 🔨 Building: Web applications and software solutions
-- 🎯 Goal: Becoming a Full-Stack Software Engineer
-- 🤖 Interested in: AI, Backend Development, and Databases
+- 💻 Developing responsive web applications with modern technologies
+- 🌐 Exploring backend development and database design
+- 🎯 Aspiring to become a Full-Stack Software Engineer
+- 📚 Continuously learning and improving my development skills
 
 #### ⚡ A Few Things About Me
 - 💡 I enjoy turning ideas into working applications
@@ -25,14 +25,17 @@ Hello! I'm Meriel Ady Talub, an Information Systems student passionate about bui
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"\n/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"\n/>
 </div>
 
 <h3 align="center">⚙️ Backend</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
 <h3 align="center">🗄️ Database & Tools</h3>
