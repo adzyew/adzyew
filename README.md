@@ -8,7 +8,7 @@ Hello! I'm Meriel Ady Talub, an Information Systems student passionate about bui
 #### 🚀 Current Focus
 - 💻 Developing responsive web applications with modern technologies
 - 🌐 Exploring backend development and database design
-- 🎯 Aspiring to become a Full-Stack Software Engineer
+- 🎯 Aspiring Data Analyst, Database Specialist, and Web Developer.
 - 📚 Continuously learning and improving my development skills
 
 #### ⚡ A Few Things About Me
